@@ -1,0 +1,10 @@
+Z:\DTH225745.BuoiTH02\Buoi 02\Bai2.1\bin\Debug\Bai2.1.exe.config
+Z:\DTH225745.BuoiTH02\Buoi 02\Bai2.1\bin\Debug\Bai2.1.exe
+Z:\DTH225745.BuoiTH02\Buoi 02\Bai2.1\bin\Debug\Bai2.1.pdb
+Z:\DTH225745.BuoiTH02\Buoi 02\Bai2.1\obj\Debug\Bai2.1.csproj.AssemblyReference.cache
+Z:\DTH225745.BuoiTH02\Buoi 02\Bai2.1\obj\Debug\Bai2._1.frmChuongTrinhDonGian.resources
+Z:\DTH225745.BuoiTH02\Buoi 02\Bai2.1\obj\Debug\Bai2._1.Properties.Resources.resources
+Z:\DTH225745.BuoiTH02\Buoi 02\Bai2.1\obj\Debug\Bai2.1.csproj.GenerateResource.cache
+Z:\DTH225745.BuoiTH02\Buoi 02\Bai2.1\obj\Debug\Bai2.1.csproj.CoreCompileInputs.cache
+Z:\DTH225745.BuoiTH02\Buoi 02\Bai2.1\obj\Debug\Bai2.1.exe
+Z:\DTH225745.BuoiTH02\Buoi 02\Bai2.1\obj\Debug\Bai2.1.pdb
